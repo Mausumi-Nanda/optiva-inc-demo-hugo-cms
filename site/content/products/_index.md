@@ -50,7 +50,7 @@ pricing:
   heading: Yearly subscriptions
   description: >- Subsciptions are specific to Customer needs 
   plans:
-    - description: Perfect.
+    - description: Perfect Shot.
       items:
         - GOLD
         - CMD"
@@ -64,7 +64,7 @@ pricing:
         - UC"      
       plan: GOLD
       price: '?'
-    - description: It is Gold and Diamonds.
+    - description: 'It is Gold and Diamonds'
       items:
         - Release Notes
         - Design Documentation
@@ -75,7 +75,7 @@ pricing:
         - Product and Feature Description Documents
       plan: OCE
       price: '?'
-    - description: Want to see more.
+    - description: 'Want to see more'
       items:
         - Release Notes
         - Design Documentation
@@ -86,7 +86,7 @@ pricing:
         - Product and Feature Description Documents
       plan: OBP
       price: '?'
-    - description: Just do it.
+    - description: 'Just do it'
       items:
         - Release Notes
         - Design Documentation
