@@ -47,8 +47,8 @@ testimonials:
     quote: >- Brilliant Customer Service    
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: >-    
+  heading: Subscriptions
+  description: >- Subsciptions are specific to Customer needs 
   plans:
     - description: Perfect.
       items:
@@ -64,7 +64,7 @@ pricing:
         - UC"      
       plan: GOLD
       price: '?'
-    - description: 'It's Gold and Diamonds'
+    - description: It's Gold and Diamonds.
       items:
         - Release Notes
         - Design Documentation
@@ -75,7 +75,7 @@ pricing:
         - Product and Feature Description Documents
       plan: OCE
       price: '?'
-    - description: 'Want to see more'
+    - description: Want to see more.
       items:
         - Release Notes
         - Design Documentation
@@ -86,7 +86,7 @@ pricing:
         - Product and Feature Description Documents
       plan: OBP
       price: '?'
-    - description: 'Just do it'
+    - description: Just do it.
       items:
         - Release Notes
         - Design Documentation
