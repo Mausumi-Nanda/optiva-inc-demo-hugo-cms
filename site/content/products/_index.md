@@ -91,7 +91,7 @@ pricing:
         - Installation Guides
         - Product and Feature Description Documents
       plan: OBP
-     - description: 'Just do it
+     - description: 'Just do it'
 
        items:
         - Release Notes
