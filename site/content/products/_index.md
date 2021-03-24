@@ -53,7 +53,7 @@ pricing:
   description: >-
     
   plans:
-    - description: >- Perfect.
+    - description: Perfect.
       items:
         - GOLD
         - CMD
@@ -69,9 +69,9 @@ pricing:
         
         
       plan: GOLD
-    - pricing: 
+      price: 
     - description: 'It's Gold and Diamonds'
-    -  items:
+      items:
         - Release Notes
         - Design Documentation
         - System Specifications
@@ -80,9 +80,9 @@ pricing:
         - Installation Guides
         - Product and Feature Description Documents
       plan: OCE
-    - pricing:
+      price:
     - description: 'Want to see more'
-    -  items:
+      items:
         - Release Notes
         - Design Documentation
         - System Specifications
@@ -91,9 +91,9 @@ pricing:
         - Installation Guides
         - Product and Feature Description Documents
       plan: OBP
-     - description: 'Just do it'
-     - pricing:
-     - items:
+      price:
+    - description: 'Just do it'
+       items:
         - Release Notes
         - Design Documentation
         - System Specifications
