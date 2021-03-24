@@ -63,38 +63,38 @@ pricing:
         - TCB"
         - UC"      
       plan: GOLD
-        price: '100'
-        - description: It is Gold and Diamonds
-        items:
-        - Release Notes
-        - Design Documentation
-        - System Specifications
-        - Element Specifications
-        - Site Preparation Documents
-        - Installation Guides
-        - Product and Feature Description Documents
+         price: '100'
+       - description: It is Gold and Diamonds
+         items:
+          - Release Notes
+          - Design Documentation
+          - System Specifications
+          - Element Specifications
+          - Site Preparation Documents
+          - Installation Guides
+          - Product and Feature Description Documents
       plan: OCE
-        price: '110'
-        - description: Want to see more
-        items:
-        - Release Notes
-        - Design Documentation
-        - System Specifications
-        - Element Specifications
-        - Site Preparation Documents
-        - Installation Guides
-        - Product and Feature Description Documents
+         price: '110'
+       - description: Want to see more
+         items:
+          - Release Notes
+          - Design Documentation
+          - System Specifications
+          - Element Specifications
+          - Site Preparation Documents
+          - Installation Guides
+          - Product and Feature Description Documents
       plan: OBP
-        price: '120'
-        - description: Just do it
-        items:
-        - Release Notes
-        - Design Documentation
-        - System Specifications
-        - Element Specifications
-        - Site Preparation Documents
-        - Installation Guides
-        - Product and Feature Description Documents
+         price: '120'
+       - description: Just do it
+         items:
+          - Release Notes
+          - Design Documentation
+          - System Specifications
+          - Element Specifications
+          - Site Preparation Documents
+          - Installation Guides
+          - Product and Feature Description Documents
 ---
 
 
