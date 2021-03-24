@@ -47,20 +47,20 @@ testimonials:
     quote: >- Brilliant Customer Service    
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Subscriptions
+  heading: Yearly subscriptions
   description: >- Subsciptions are specific to Customer needs 
   plans:
     - description: Perfect.
       items:
         - GOLD
-        - CMD
-        - INBILL
-        - OBP
-        - OCE
-        - PCS
-        - Railways
-        - S@O
-        - TCB
+        - CMD"
+        - INBILL"
+        - OBP"
+        - OCE"
+        - PCS"
+        - Railways"
+        - S@O"
+        - TCB"
         - UC"      
       plan: GOLD
       price: '?'
