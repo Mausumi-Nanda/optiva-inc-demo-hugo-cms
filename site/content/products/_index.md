@@ -4,7 +4,7 @@ type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
-  Product Lines.
+  Product Lines. Customer Satisfaction in plenty.
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
@@ -26,7 +26,7 @@ intro:
         Posters are important because one picture is worth a thousand words.
   heading: What we offer
   description: >
-    Customer Satisfaction in plenty.
+    Product Lines. Customer Satisfaction in plenty.
 main:
   heading: Optiva Knowledge Base
   description: >
