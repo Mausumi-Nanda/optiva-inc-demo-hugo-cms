@@ -64,7 +64,7 @@ pricing:
         - UC"      
       plan: GOLD
       price: '?'
-    - description: It's Gold and Diamonds.
+    - description: It is Gold and Diamonds.
       items:
         - Release Notes
         - Design Documentation
