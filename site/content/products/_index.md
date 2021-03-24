@@ -26,7 +26,7 @@ intro:
         Posters are important because one picture is worth a thousand words.
   heading: What we offer
   description: >
-    Customer Satisfaction in plenty...
+    Customer Satisfaction in plenty
 main:
   heading: Optiva Knowledge Base
   description: >
@@ -42,13 +42,13 @@ main:
     image: /img/products-grid1.jpg
 testimonials:
   - author: Mausumi
-    quote: >- Nice Product  
+    quote: >- Nice Product.  
   - author: Mausumi Nanda
-    quote: >- Brilliant Customer Service    
+    quote: >- Brilliant Customer Service.    
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Yearly subscriptions
-  description: >- Subsciptions are specific to Customer needs 
+  description: >- Subsciptions are specific to Customer needs. 
   plans:
     - description: Perfect Shot.
       items:
@@ -64,7 +64,7 @@ pricing:
         - UC"      
       plan: GOLD
          price: '100'
-       - description: It is Gold and Diamonds
+       - description: It is Gold and Diamonds.
          items:
           - Release Notes
           - Design Documentation
@@ -75,7 +75,7 @@ pricing:
           - Product and Feature Description Documents
       plan: OCE
          price: '110'
-       - description: Want to see more
+       - description: Want to see more.
          items:
           - Release Notes
           - Design Documentation
@@ -86,7 +86,7 @@ pricing:
           - Product and Feature Description Documents
       plan: OBP
          price: '120'
-       - description: Just do it
+       - description: Just do it.
          items:
           - Release Notes
           - Design Documentation
