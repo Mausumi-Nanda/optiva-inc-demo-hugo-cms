@@ -63,7 +63,7 @@ pricing:
         - TCB"
         - UC"      
       plan: GOLD
-      price: '?'
+      price: '100'
     - description: It is Gold and Diamonds
       items:
         - Release Notes
@@ -74,7 +74,7 @@ pricing:
         - Installation Guides
         - Product and Feature Description Documents
       plan: OCE
-      price: '?'
+      price: '100'
     - description: Want to see more
       items:
         - Release Notes
@@ -85,7 +85,7 @@ pricing:
         - Installation Guides
         - Product and Feature Description Documents
       plan: OBP
-      price: '?'
+      price: '100'
     - description: Just do it
       items:
         - Release Notes
