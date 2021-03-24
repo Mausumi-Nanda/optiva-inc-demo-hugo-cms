@@ -48,7 +48,8 @@ testimonials:
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Yearly subscriptions
-  description: >- Subsciptions are specific to Customer needs. 
+  description: >- 
+    Subsciptions are specific to Customer needs. 
   plans:
     - description: Perfect Shot.
       items:
