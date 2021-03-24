@@ -26,7 +26,7 @@ intro:
         Posters are important because one picture is worth a thousand words.
   heading: What we offer
   description: >
-    Customer Satisfaction in plenty
+    Customer Satisfaction in plenty.
 main:
   heading: Optiva Knowledge Base
   description: >
