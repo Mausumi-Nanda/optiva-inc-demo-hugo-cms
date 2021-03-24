@@ -63,9 +63,9 @@ pricing:
         - TCB"
         - UC"      
       plan: GOLD
-      price: '100'
-    - description: It is Gold and Diamonds
-      items:
+        price: '100'
+        - description: It is Gold and Diamonds
+        items:
         - Release Notes
         - Design Documentation
         - System Specifications
@@ -74,9 +74,9 @@ pricing:
         - Installation Guides
         - Product and Feature Description Documents
       plan: OCE
-      price: '100'
-    - description: Want to see more
-      items:
+        price: '110'
+        - description: Want to see more
+        items:
         - Release Notes
         - Design Documentation
         - System Specifications
@@ -85,9 +85,9 @@ pricing:
         - Installation Guides
         - Product and Feature Description Documents
       plan: OBP
-      price: '100'
-    - description: Just do it
-      items:
+        price: '120'
+        - description: Just do it
+        items:
         - Release Notes
         - Design Documentation
         - System Specifications
