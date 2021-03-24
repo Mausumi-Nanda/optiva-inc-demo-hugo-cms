@@ -69,9 +69,9 @@ pricing:
         
         
       plan: GOLD
-      
+    -  pricing: 
     - description: 'It's GOLD and Diamonds'
-      items:
+    -  items:
         - Release Notes
         - Design Documentation
         - System Specifications
@@ -80,9 +80,9 @@ pricing:
         - Installation Guides
         - Product and Feature Description Documents
       plan: OCE
-      
+    -  pricing:
     - description: 'Want to see more'
-      items:
+    -  items:
         - Release Notes
         - Design Documentation
         - System Specifications
@@ -92,8 +92,8 @@ pricing:
         - Product and Feature Description Documents
       plan: OBP
      - description: 'Just do it'
-
-       items:
+     -  pricing:
+     - items:
         - Release Notes
         - Design Documentation
         - System Specifications
