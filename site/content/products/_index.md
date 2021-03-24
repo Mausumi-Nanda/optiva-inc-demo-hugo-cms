@@ -30,7 +30,7 @@ intro:
 main:
   heading: Optiva Knowledge Base
   description: >
-    We hold our hard to our belief that Customer is GOD
+    We hold hard to our belief that Customer is GOD
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -53,7 +53,7 @@ pricing:
   description: >-
     
   plans:
-    - description: Perfect.
+    - description: >- Perfect.
       items:
         - GOLD
         - CMD
@@ -70,7 +70,7 @@ pricing:
         
       plan: GOLD
     -  pricing: 
-    - description: 'It's GOLD and Diamonds'
+    - description: >- 'It's GOLD and Diamonds'
     -  items:
         - Release Notes
         - Design Documentation
@@ -81,7 +81,7 @@ pricing:
         - Product and Feature Description Documents
       plan: OCE
     -  pricing:
-    - description: 'Want to see more'
+    - description: >- 'Want to see more'
     -  items:
         - Release Notes
         - Design Documentation
@@ -91,7 +91,7 @@ pricing:
         - Installation Guides
         - Product and Feature Description Documents
       plan: OBP
-     - description: 'Just do it'
+     - description: >- 'Just do it'
      -  pricing:
      - items:
         - Release Notes
