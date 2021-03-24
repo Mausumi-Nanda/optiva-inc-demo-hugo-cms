@@ -67,34 +67,34 @@ pricing:
     - description: 'It is Gold and Diamonds'
       items:
         - Release Notes
-        - Design Documentation
-        - System Specifications
-        - Element Specifications
-        - Site Preparation Documents
-        - Installation Guides
-        - Product and Feature Description Documents
+        - Design Documentation"
+        - System Specifications"
+        - Element Specifications"
+        - Site Preparation Documents"
+        - Installation Guides"
+        - Product and Feature Description Documents"
       plan: OCE
       price: '?'
     - description: 'Want to see more'
       items:
         - Release Notes
-        - Design Documentation
-        - System Specifications
-        - Element Specifications
-        - Site Preparation Documents
-        - Installation Guides
-        - Product and Feature Description Documents
+        - Design Documentation"
+        - System Specifications"
+        - Element Specifications"
+        - Site Preparation Documents"
+        - Installation Guides"
+        - Product and Feature Description Documents"
       plan: OBP
       price: '?'
     - description: 'Just do it'
       items:
         - Release Notes
-        - Design Documentation
-        - System Specifications
-        - Element Specifications
-        - Site Preparation Documents
-        - Installation Guides
-        - Product and Feature Description Documents
+        - Design Documentation"
+        - System Specifications"
+        - Element Specifications"
+        - Site Preparation Documents"
+        - Installation Guides"
+        - Product and Feature Description Documents"
 ---
 
 
