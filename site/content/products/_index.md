@@ -41,17 +41,14 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: 
-    quote: >-
-      
-  - author: 
-    quote: >-
-      
+  - author: Mausumi
+    quote: >- Nice Product  
+  - author: Mausumi Nanda
+    quote: >- Brilliant Customer Service    
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
-  description: >-
-    
+  description: >-    
   plans:
     - description: Perfect.
       items:
@@ -64,10 +61,7 @@ pricing:
         - Railways
         - S@O
         - TCB
-        - UC"
-        
-        
-        
+        - UC"      
       plan: GOLD
       price: '?'
     - description: 'It's Gold and Diamonds'
@@ -102,5 +96,7 @@ pricing:
         - Installation Guides
         - Product and Feature Description Documents
 ---
+
+
 
 
