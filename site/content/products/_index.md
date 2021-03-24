@@ -30,7 +30,7 @@ intro:
 main:
   heading: Optiva Knowledge Base
   description: >
-    We hold hard to our belief that Customer is GOD
+    We hold hard to our belief that Customer is GOD.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
