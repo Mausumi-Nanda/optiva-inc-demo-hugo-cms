@@ -1,6 +1,6 @@
 ---
-title: Product Documentation
-type: Products
+title: Our Product
+type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
