@@ -93,7 +93,7 @@ pricing:
       plan: OBP
       price: '?'
     - description: 'Just do it'
-       items:
+      items:
         - Release Notes
         - Design Documentation
         - System Specifications
