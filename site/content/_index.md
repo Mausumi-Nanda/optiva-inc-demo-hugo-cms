@@ -1,7 +1,7 @@
 ---
 title: "Optiva Knowledge Sharing"
 subtitle: This is the Optiva Knowledge Sharing Platform
-image: /img/optiva-logo-wht.png
+image: https://optiva.com/wp-content/themes/optiva/assets/images/optiva-logo-wht.png
 blurb:
     heading: "Optiva Knowledge Base"
     text: "This Knowledge Base is used for both Internal Stakeholders and External Users."
