@@ -1,7 +1,7 @@
 ---
 title: "Videos"
 image: /img/about-jumbotron.jpg
-values:
+videos:
   - heading: "GOLD"
     text: >
       GOLD Tutorial Videos.
