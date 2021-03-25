@@ -1,6 +1,6 @@
 ---
 title: GOLD Release Notes
-date: 2021-03-25T15:04:10.000Z
+date: 2021-03-24T15:04:10.000Z
 description: >-
   The GOLD CCB Product Line Release Notes.
 image: /img/blog-chemex.jpg
