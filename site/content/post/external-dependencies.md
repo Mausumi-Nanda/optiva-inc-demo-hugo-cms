@@ -1,6 +1,6 @@
 ---
 title: "Making Sense with External Dependencies"
-date: 2021-03-25T15:04:10.000Z
+date: 2021-03-24T15:04:10.000Z
 description: The External Dependencies for GOLD CCB 3.5.
 image: /img/blog-flavor_wheel.jpg
 ---
