@@ -59,21 +59,21 @@ pricing:
         - OCE Product Line"
         - OBP product Line"    
       plan: GOLD
-         price: '100'
-       - description: 'It is Gold and Diamonds'
-         items:
+      price: '100'
+    - description: 'It is Gold and Diamonds'
+      items:
           - Release Notes
           - Design Documentation
           - System Specifications
       plan: OCE
-         price: '110'
-       - description: Want to see more? Try our custom plan
-         items:
+      price: '110'
+    - description: Want to see more? Try our custom plan
+      items:
           - Release Notes
           - Design Documentation
           - System Specifications
       plan: Custom
-         price: '?'
+      price: '?'
 ---
 
 
