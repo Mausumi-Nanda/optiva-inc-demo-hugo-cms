@@ -51,13 +51,13 @@ full_image: /img/products-full-width.jpg
 pricing:
   heading: Yearly subscriptions
   description: >- 
-    Subsciptions are specific to Customer needs. 
+    Subscriptions are specific to Customer needs. 
   plans:
     - description: Perfect Shot.
       items:
         - GOLD Product Line
-        - OCE Product Line"
-        - OBP product Line"    
+        - OCE Product Line
+        - OBP product Line    
       plan: GOLD
       price: '100'
     - description: 'It is Gold and Diamonds'
