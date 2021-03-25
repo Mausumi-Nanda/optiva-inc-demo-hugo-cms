@@ -1,10 +1,10 @@
 ---
-title: Our Coffee
+title: Our Products
 type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
-  Product Lines. Customer Satisfaction in plenty.
+  Multiple Product Lines Customer Satisfaction in plenty.
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
@@ -25,7 +25,7 @@ intro:
       text: >
         Posters are important because one picture is worth a thousand words.
   heading: What we offer
-  description: >-
+  description: >
     Product Lines. Customer Satisfaction in plenty.
 main:
   heading: Optiva Knowledge Base
@@ -41,10 +41,12 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Mausumi
-    quote: >- Nice Product.  
+  - author: Rashmi Nanda
+    quote: >- 
+     Nice Product.  
   - author: Mausumi Nanda
-    quote: >- Brilliant Customer Service.    
+    quote: >- 
+     Brilliant Customer Service.    
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Yearly subscriptions
@@ -65,7 +67,7 @@ pricing:
         - UC"      
       plan: GOLD
          price: '100'
-       - description: It is Gold and Diamonds.
+       - description: 'It is Gold and Diamonds'
          items:
           - Release Notes
           - Design Documentation
@@ -76,7 +78,7 @@ pricing:
           - Product and Feature Description Documents
       plan: OCE
          price: '110'
-       - description: Want to see more.
+       - description: Want to see more
          items:
           - Release Notes
           - Design Documentation
@@ -87,7 +89,7 @@ pricing:
           - Product and Feature Description Documents
       plan: OBP
          price: '120'
-       - description: Just do it.
+       - description: Just do it
          items:
           - Release Notes
           - Design Documentation
