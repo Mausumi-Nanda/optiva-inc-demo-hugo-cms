@@ -20,5 +20,10 @@ Release Notes is an important source of Information for the GOLD Product Line:
 4. Timing is key, don’t forget the clock.
 
 The most visually distinctive feature of the Release Notes are the Features, Restrictions, Known Bugs, Notes and Blueprint of the various GOLD CCB 3.5 Components.
+Import from:
 
+## Google Doc
+## MS Word
+## PDF
+## Github
 
