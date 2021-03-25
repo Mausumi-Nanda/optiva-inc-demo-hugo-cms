@@ -56,15 +56,8 @@ pricing:
     - description: Perfect Shot.
       items:
         - GOLD
-        - CMD"
-        - INBILL"
-        - OBP"
         - OCE"
-        - PCS"
-        - Railways"
-        - S@O"
-        - TCB"
-        - UC"      
+        - Custom"    
       plan: GOLD
          price: '100'
        - description: 'It is Gold and Diamonds'
@@ -72,32 +65,15 @@ pricing:
           - Release Notes
           - Design Documentation
           - System Specifications
-          - Element Specifications
-          - Site Preparation Documents
-          - Installation Guides
-          - Product and Feature Description Documents
       plan: OCE
          price: '110'
-       - description: Want to see more
+       - description: Want to see more? Try our custom plan
          items:
           - Release Notes
           - Design Documentation
           - System Specifications
-          - Element Specifications
-          - Site Preparation Documents
-          - Installation Guides
-          - Product and Feature Description Documents
-      plan: OBP
-         price: '120'
-       - description: Just do it
-         items:
-          - Release Notes
-          - Design Documentation
-          - System Specifications
-          - Element Specifications
-          - Site Preparation Documents
-          - Installation Guides
-          - Product and Feature Description Documents
+      plan: Custom
+         price: '?'
 ---
 
 
